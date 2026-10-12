@@ -960,6 +960,12 @@
     "last_pr": "2026-10-02T09:46:10.608Z"
   },
   {
+    "username": "IFTS",
+    "total_prs": 7,
+    "first_pr": "2026-10-12T15:33:51.593Z",
+    "last_pr": "2026-10-12T17:28:39.950Z"
+  },
+  {
     "username": "TsukinowaRin",
     "total_prs": 6,
     "first_pr": "2026-05-13T07:06:32Z",
@@ -1042,12 +1048,6 @@
     "total_prs": 6,
     "first_pr": "2026-09-28T04:31:14.324Z",
     "last_pr": "2026-10-08T01:32:40.031Z"
-  },
-  {
-    "username": "IFTS",
-    "total_prs": 6,
-    "first_pr": "2026-10-12T15:33:51.593Z",
-    "last_pr": "2026-10-12T16:12:13.937Z"
   },
   {
     "username": "FJ-CX",
