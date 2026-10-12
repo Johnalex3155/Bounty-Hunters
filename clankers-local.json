@@ -660,6 +660,12 @@
     "last_pr": "2026-07-20T18:15:23.126Z"
   },
   {
+    "username": "IFTS",
+    "total_prs": 10,
+    "first_pr": "2026-10-12T15:33:51.593Z",
+    "last_pr": "2026-10-12T17:34:38.899Z"
+  },
+  {
     "username": "digzrow-coder",
     "total_prs": 9,
     "first_pr": "2026-05-13T08:07:00Z",
@@ -724,12 +730,6 @@
     "total_prs": 9,
     "first_pr": "2026-09-21T14:50:00.766Z",
     "last_pr": "2026-09-25T13:56:42.314Z"
-  },
-  {
-    "username": "IFTS",
-    "total_prs": 9,
-    "first_pr": "2026-10-12T15:33:51.593Z",
-    "last_pr": "2026-10-12T17:33:33.164Z"
   },
   {
     "username": "ChienNguyen23",
