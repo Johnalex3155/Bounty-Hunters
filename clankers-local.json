@@ -1974,6 +1974,12 @@
     "last_pr": "2026-10-15T13:33:22.180Z"
   },
   {
+    "username": "adamscarmccoy-boop",
+    "total_prs": 2,
+    "first_pr": "2026-10-16T15:06:15.085Z",
+    "last_pr": "2026-10-16T22:21:43.067Z"
+  },
+  {
     "username": "ErenCankutUYSAL",
     "total_prs": 1,
     "first_pr": "2026-05-13T19:25:27Z",
@@ -2752,11 +2758,5 @@
     "total_prs": 1,
     "first_pr": "2026-10-16T05:37:07.291Z",
     "last_pr": "2026-10-16T05:37:07.291Z"
-  },
-  {
-    "username": "adamscarmccoy-boop",
-    "total_prs": 1,
-    "first_pr": "2026-10-16T15:06:15.085Z",
-    "last_pr": "2026-10-16T15:06:15.085Z"
   }
 ]
