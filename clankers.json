@@ -2352,6 +2352,12 @@
     "last_pr": "2026-09-27T18:13:31.275Z"
   },
   {
+    "username": "adamscarmccoy-boop",
+    "total_prs": 2,
+    "first_pr": "2026-10-16T15:06:15.085Z",
+    "last_pr": "2026-10-16T22:21:43.067Z"
+  },
+  {
     "username": "kingskuan",
     "total_prs": 2,
     "first_pr": "2026-05-15T14:10:31.174Z",
@@ -3160,12 +3166,6 @@
     "total_prs": 1,
     "first_pr": "2026-10-16T05:37:07.291Z",
     "last_pr": "2026-10-16T05:37:07.291Z"
-  },
-  {
-    "username": "adamscarmccoy-boop",
-    "total_prs": 1,
-    "first_pr": "2026-10-16T15:06:15.085Z",
-    "last_pr": "2026-10-16T15:06:15.085Z"
   },
   {
     "username": "MichisGitIsKing",
