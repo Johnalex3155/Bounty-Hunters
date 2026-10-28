@@ -1530,6 +1530,12 @@
     "last_pr": "2026-05-19T01:16:01.294Z"
   },
   {
+    "username": "schwankeith",
+    "total_prs": 5,
+    "first_pr": "2026-10-25T03:49:36.921Z",
+    "last_pr": "2026-10-28T07:48:58.243Z"
+  },
+  {
     "username": "bounty-bot-beep",
     "total_prs": 5,
     "first_pr": "2026-05-16T01:02:07.509Z",
@@ -1744,12 +1750,6 @@
     "total_prs": 4,
     "first_pr": "2026-10-15T13:08:24.772Z",
     "last_pr": "2026-10-15T13:33:22.180Z"
-  },
-  {
-    "username": "schwankeith",
-    "total_prs": 4,
-    "first_pr": "2026-10-25T03:49:36.921Z",
-    "last_pr": "2026-10-26T20:51:29.240Z"
   },
   {
     "username": "partyplatter08-lab",
